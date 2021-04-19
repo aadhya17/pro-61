@@ -1,0 +1,65 @@
+#books {
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+
+section {
+    position: none;
+    overflow: hidden;
+    height: 800px;
+    color: #53f5d2;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient(#ffa3b1 0%, #f5536c 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.bio {
+    padding: 50px;
+    text-align: center;
+    font-size: 42px;
+}
+
+body {
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+    position: absolute;
+}
+
+.links {
+    float: left;
+    color: purple;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+img {
+    width: 350px;
+    
+}
+#map{
+    width: 1500;
+    height: 550
+}
+i{
+    color: aliceblue;
+    width: 100;
+}
